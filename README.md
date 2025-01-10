@@ -1,4 +1,8 @@
-## Hi there 👋
+- 👋 Hi, I’m Lawrence
+- 🔭 I’m working on Quant research and engineering projects with ML and classical statistical learning methods
+- 🤓 I geek out on AI, High performance computing (HPC), Edge computing plus IoT devices and high performance cars 
+- 👯 I’m looking to collaborate on quant finance, AI and blazing fast softwares 
+- ⛓️ Connect with me on [LinkedIn](https://www.linkedin.com/in/lawrencekhan)
 
 <!--
 **ltekengineering/ltekengineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
